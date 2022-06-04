@@ -1,6 +1,6 @@
 # 
 <h1 align="center">
- Projeto Centurion
+ Projeto Centurion 🌌
 </h1>
 
 <p align="center">
@@ -32,7 +32,7 @@ Projeto centurion foi criado para ajudar pessoas que tem o sonho de ingressar no
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através desse link:https://projeto-centurion.netlify.app/  
+Você pode visualizar o layout do projeto através desse link: https://projeto-centurion.netlify.app/  
 
 
 
