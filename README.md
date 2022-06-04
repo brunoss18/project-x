@@ -32,7 +32,7 @@ Projeto centurion foi criado para ajudar pessoas que tem o sonho de ingressar no
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através desse link:  
+Você pode visualizar o layout do projeto através desse link:https://projeto-centurion.netlify.app/  
 
 
 
